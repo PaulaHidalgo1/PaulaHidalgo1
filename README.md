@@ -1,16 +1,16 @@
-## Hi there 👋
+# Paula Hidalgo – Junior Data Analyst
 
-<!--
-**PaulaHidalgo1/PaulaHidalgo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 España | Remoto Europa  
+📧 paulahidalgomaurino@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/paula-hidalgo-824646257  
 
-Here are some ideas to get you started:
+Soy **Junior Data Analyst** con formación en Desarrollo de Aplicaciones Web y especialización en Inteligencia Artificial y Big Data. Trabajo con Python, SQL y Power BI para analizar datos y obtener conclusiones útiles para la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Python (pandas, numpy, scikit-learn)
+- SQL (MySQL)
+- Power BI, Excel
+- GitHub
+
+## Proyectos
+🚧 Actualmente desarrollando proyectos de análisis de datos.
