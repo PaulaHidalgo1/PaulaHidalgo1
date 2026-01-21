@@ -13,4 +13,5 @@ Soy **Junior Data Analyst** con formación en Desarrollo de Aplicaciones Web y e
 - GitHub
 
 ## Proyectos
-🚧 Actualmente desarrollando proyectos de análisis de datos.
+- Análisis de Ventas Farmacéuticas.
+🚧 Actualmente desarrollando proyectos SQL.
